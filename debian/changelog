@@ -1,0 +1,23 @@
+git-ftp (0.2.8) unstable; urgency=low
+
+  * Repackage.
+
+ -- Niklas Fiekas <niklas.fiekas@tu-clausthal.de>  Sun, 22 Sep 2013 12:16:00 +0100
+
+git-ftp (0.2.7) oneiric; urgency=low
+
+  * Make post-receive hook handle multiple branches.
+
+  * Ensure the correct gitpython version is present.
+
+  * Allow excluding files from upload using a blacklist file.
+
+  * Minor documentation changes.
+
+ -- Niklas Fiekas <niklas.fiekas@googlemail.com>  Mon, 26 Mar 2012 21:15:00 +0100
+
+git-ftp (0.1) oneiric; urgency=low
+
+  * Initial release.
+
+ -- Niklas Fiekas <niklas.fiekas@googlemail.com>  Sun, 27 Nov 2011 17:57:00 +0100

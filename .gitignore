@@ -1,0 +1,4 @@
+debian/files
+debian/git-ftp.debhelper.log
+debian/git-ftp.substvars
+debian/git-ftp/
