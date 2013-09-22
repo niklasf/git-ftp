@@ -1,0 +1,8 @@
+Origin: niklasf.github.io/git-ftp
+Label: git-ftp repository
+Codename: squeeze
+Architectures: i386 amd64 armhf source
+Components: main
+Description: git-ftp debian package repository
+SignWith: yes
+Pull: squeeze

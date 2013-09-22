@@ -1,0 +1,20 @@
+Package: git-ftp
+Version: 0.2.8
+Architecture: all
+Maintainer: Niklas Fiekas <niklas.fiekas@tu-clausthal.de>
+Installed-Size: 63
+Depends: python (>= 2.7), python-git, git-core
+Homepage: https://github.com/ezyang/git-ftp
+Priority: optional
+Section: python
+Filename: pool/main/g/git-ftp/git-ftp_0.2.8_all.deb
+Size: 13204
+SHA256: be720d49257e84cbdf961d97cb0aacfd916b887576c1b9108a150161865022e6
+SHA1: 2e7a56a63ddf76536979a23ea212c27d85ecffdd
+MD5sum: 17eed85a4d0cfd3176d71cea82e22410
+Description: Quick and efficient publishing of Git repositories over FTP
+ Some web hosts only give you FTP access to the hosting space, but you would
+ still like to use Git to version the contents of your directory. You could
+ upload a full tarball of your website every time you update but that's
+ wasteful. git-ftp uploads the files that changed.
+

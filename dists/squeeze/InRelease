@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: niklasf.github.io/git-ftp
+Label: git-ftp repository
+Codename: squeeze
+Date: Sun, 22 Sep 2013 11:36:15 UTC
+Architectures: i386 amd64 armhf
+Components: main
+Description: git-ftp debian package repository
+MD5Sum:
+ 4581ad5807381c4f736f30b3b41040ad 828 main/binary-i386/Packages
+ 9ff219471b2a4cd50ad5bd8ec9ec227a 566 main/binary-i386/Packages.gz
+ e9644fcaec76688539eed49d6ec4ea08 142 main/binary-i386/Release
+ 4581ad5807381c4f736f30b3b41040ad 828 main/binary-amd64/Packages
+ 9ff219471b2a4cd50ad5bd8ec9ec227a 566 main/binary-amd64/Packages.gz
+ 9d0531808570453d2177244c869686cd 143 main/binary-amd64/Release
+ 4581ad5807381c4f736f30b3b41040ad 828 main/binary-armhf/Packages
+ 9ff219471b2a4cd50ad5bd8ec9ec227a 566 main/binary-armhf/Packages.gz
+ 7e6c76bbf38d278793b59efe64b0d0c8 143 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ b736db8b5856c56395d34b660cb1b809 144 main/source/Release
+SHA1:
+ a087d52d521b37e0ed6345a3b75d93a67bb3dad5 828 main/binary-i386/Packages
+ dcf7d3307abb88bbfc8f84ea17512c058e889bdb 566 main/binary-i386/Packages.gz
+ 5ad2197789869d0f44abe58fb95e4c2d6c951d54 142 main/binary-i386/Release
+ a087d52d521b37e0ed6345a3b75d93a67bb3dad5 828 main/binary-amd64/Packages
+ dcf7d3307abb88bbfc8f84ea17512c058e889bdb 566 main/binary-amd64/Packages.gz
+ bbac24d2b943a50aa8f7c644047644179a03aad2 143 main/binary-amd64/Release
+ a087d52d521b37e0ed6345a3b75d93a67bb3dad5 828 main/binary-armhf/Packages
+ dcf7d3307abb88bbfc8f84ea17512c058e889bdb 566 main/binary-armhf/Packages.gz
+ e69a347884e66a59dd5c84f6a27fccd072854840 143 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 74681c41a179632af1c3e904800f963325497fbb 144 main/source/Release
+SHA256:
+ dd690a4657bc1977e1da7b787a38976cbc50f66ed70743925bbd06fdfd916b71 828 main/binary-i386/Packages
+ 5b1a470d6f8ef8924233547b7f8a4618695ca9d6ae7581f7e917ef36065a408b 566 main/binary-i386/Packages.gz
+ 2465a08d2726ae40fe4242353e63ed24bcbda09323961463e908a3906cbcac13 142 main/binary-i386/Release
+ dd690a4657bc1977e1da7b787a38976cbc50f66ed70743925bbd06fdfd916b71 828 main/binary-amd64/Packages
+ 5b1a470d6f8ef8924233547b7f8a4618695ca9d6ae7581f7e917ef36065a408b 566 main/binary-amd64/Packages.gz
+ d150a26e497162e70a2411605638b8c59bc8be406f49e86a4c93e8698dbfd718 143 main/binary-amd64/Release
+ dd690a4657bc1977e1da7b787a38976cbc50f66ed70743925bbd06fdfd916b71 828 main/binary-armhf/Packages
+ 5b1a470d6f8ef8924233547b7f8a4618695ca9d6ae7581f7e917ef36065a408b 566 main/binary-armhf/Packages.gz
+ 27d92eb83333a932e5d4987cb6777f32839920cd85de85018c748b06ae0259a1 143 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ d4e3d5f8334d406525eb79dd134ab0a3577fa7d19b7a09f199b9a4a40b73af92 144 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iQIcBAEBAgAGBQJSPtYvAAoJEC7KZsZbJVE4lHoP/1ALgIUGy6nzjv1zZez9L+Qt
+0YyMr8m/XS+BRoOeY58vFN5nmq018z2WkfReTFJq+iHVOrsmjQEeXHkFcQRLaR9U
+Wp16dRfqvV2yETCbNwzMTssKh00Pj0Y33Yn7Emn0/4z9F2SkSZBn32LFiTCNed3d
+av/cnxSk63qWU5L0cn6gf1IDhwUFH51Dnb2Oy973yjbCwu97i8x1BHyBk2zvY88d
+vmhfeJAsmxJGmdrLnw/qOmR1IeWGdHk51IQdhOV5YJ3SWuMEmkiNySVfDYp5Zezj
+K4aO53OUaMp0B4qnw6L+u+o9MgbgFJV5AqGe/hw+xXCMH10yOjDFuDLPFJYBaLl3
+qSYqqxbRyiNzDKB+eGRT3HwDjWdVUBrVOF54g/l9wYO09Ap6Jyr1+vKCk8r/8mBy
+Zzb5jWbRdF+vimRFEHeU6p6aVJwTImsVqk3c4iy2AMlGmzPAUjXPv+xAD44J1QVE
+ZTqYsd/ME6JqCVaMModrwGaxU1uIMqIrKDIP0JIE7jwUiU0xLWIBi2hu4ZNaazY3
+z1qfknBz3jK8O5ofpfN7xSbnVxrHal0qbKEMXXjSVb2gL67Y7SUFFBGkOkqt6BET
+7FpdKrhLRQZjM0h2xQC0R1UMb7ylgG2zJBo2VbvDm9TmgoXU3+yabjPRFtRasI22
+yMtsLKeBIRN5KB3bl4wj
+=0aYU
+-----END PGP SIGNATURE-----

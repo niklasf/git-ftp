@@ -1,0 +1,5 @@
+Component: main
+Origin: niklasf.github.io/git-ftp
+Label: git-ftp repository
+Architecture: armhf
+Description: git-ftp debian package repository
